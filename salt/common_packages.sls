@@ -7,3 +7,4 @@ common_packages:
       - net-tools
       - python3-pip
       - python-cffi
+      - sshpass
